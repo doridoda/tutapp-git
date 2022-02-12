@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+  background-color: aquamarine;
+}
+
+
+
+.App-header {
+  
+background-color: beige;
+  
+  
+}
+.Links li{
+  display: inline-block;
+  list-style-type: none;
+  font-size: 20px;
+  padding: 20px;
+}
+.footer{
+  background-color: black;
+  color: white;
+  padding: 20px;
+}
+.contact{
+  width:auto;
+  padding: 150px;
+}
+#title{
+  margin-top: -100px;
+  
+}
+.form{
+  margin-top: 100px;
+
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+
